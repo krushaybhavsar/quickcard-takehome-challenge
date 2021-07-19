@@ -6,3 +6,5 @@
 <p>Character Count: <b>748</b></p>
 <p>Submission Accuracy: <b>100%</b></p>
 
+## CSS Battle Profile
+Username: [krushaybhavsar](https://cssbattle.dev/player/krushaybhavsar)
